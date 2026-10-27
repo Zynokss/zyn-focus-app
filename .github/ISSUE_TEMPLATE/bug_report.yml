@@ -1,0 +1,26 @@
+name: Bug report
+description: Report a problem with Zyn Focus.
+title: "[Bug] "
+body:
+  - type: markdown
+    attributes:
+      value: "Reports are public. Do not include passwords, tokens, private notes, personal backups, or identifying screenshots. For private support or security reports, email zynoksy@gmail.com."
+  - type: input
+    id: platform
+    attributes:
+      label: Platform and version
+      description: Website or Android preview; browser, operating system, and app version if known.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: Use fictional task names. Describe what you did, what happened, and what you expected.
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Optional cropped screenshot or error message with personal information removed.

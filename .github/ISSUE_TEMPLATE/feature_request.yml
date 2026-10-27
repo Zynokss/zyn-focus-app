@@ -1,0 +1,24 @@
+name: Feature request
+description: Suggest an improvement to Zyn Focus.
+title: "[Idea] "
+body:
+  - type: markdown
+    attributes:
+      value: "Suggestions are public. Do not include passwords, private notes, client information, or personal backups."
+  - type: textarea
+    id: need
+    attributes:
+      label: What would you like to do?
+      description: Describe the situation and how the change would help.
+    validations:
+      required: true
+  - type: input
+    id: platform
+    attributes:
+      label: Platform
+      description: Website, Android preview, or both.
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested approach
+      description: Optional. Describe a possible solution or what you do today.

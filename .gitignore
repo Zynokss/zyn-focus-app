@@ -1,0 +1,27 @@
+# Product documentation only. Installers belong in approved release assets.
+*.apk
+*.aab
+*.exe
+*.msi
+*.AppImage
+*.deb
+*.rpm
+*.dmg
+*.ipa
+*.zip
+*.map
+*.log
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.keystore
+node_modules/
+.next/
+.expo/
+.codex/
+.agents/
+.DS_Store
