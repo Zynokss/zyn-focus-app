@@ -76,7 +76,7 @@ See [FAQ](guides/faq.md) and [troubleshooting](guides/troubleshooting.md).
 
 ## Support and notices
 
-For bugs or ideas, use this repository's **Issues** tab. Include your platform and steps to reproduce. Do not upload passwords, tokens, private notes, personal backups, or identifying screenshots. For private support or security reports, email [zynoksy@gmail.com](mailto:zynoksy@gmail.com).
+For bugs or ideas, use this repository's **Issues** tab. Include your platform and steps to reproduce. Do not upload passwords, tokens, private notes, personal backups, or identifying screenshots. For private support or security reports, email [contact@zynoks.com](mailto:contact@zynoks.com).
 
 [Website](https://focus.zynoks.com/) · [Focus guides](https://focus.zynoks.com/blog) · [Contact](https://focus.zynoks.com/contact) · [Privacy](https://focus.zynoks.com/privacy) · [Terms](https://focus.zynoks.com/terms) · [Third-party notices](https://focus.zynoks.com/licenses)
 

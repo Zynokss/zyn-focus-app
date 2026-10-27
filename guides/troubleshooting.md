@@ -30,4 +30,4 @@ There is no approved public APK in this repository. Existing preview users shoul
 
 ## Report a problem
 
-Use the repository's Issues tab for a reproducible bug. Include the website or Android version, operating system, browser where applicable, expected behavior, and steps to reproduce. Crop screenshots to remove private information. Do not include passwords, tokens, personal notes, or backup files. For private support or security reports, email [zynoksy@gmail.com](mailto:zynoksy@gmail.com).
+Use the repository's Issues tab for a reproducible bug. Include the website or Android version, operating system, browser where applicable, expected behavior, and steps to reproduce. Crop screenshots to remove private information. Do not include passwords, tokens, personal notes, or backup files. For private support or security reports, email [contact@zynoks.com](mailto:contact@zynoks.com).

@@ -1,6 +1,6 @@
 # Rights and credits
 
-This product repository contains user documentation, screenshots, promotional artwork, and support templates. The private application source is not included. No open-source license to the application or general reuse license for the product branding is supplied by this repository. For reuse permissions, contact [zynoksy@gmail.com](mailto:zynoksy@gmail.com).
+This product repository contains user documentation, screenshots, promotional artwork, and support templates. The private application source is not included. No open-source license to the application or general reuse license for the product branding is supplied by this repository. For reuse permissions, contact [contact@zynoks.com](mailto:contact@zynoks.com).
 
 ## Product images
 
